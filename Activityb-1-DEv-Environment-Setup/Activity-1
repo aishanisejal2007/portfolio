@@ -1,0 +1,8 @@
+I installed Visual Studio Code and the C/C++ extension.
+I installed MinGW-w64 GCC using MSYS2.
+I verified the installation using gcc --version and g++ --version.
+I created a file named hello.c in my Portfolio Building folder.
+I compiled the program using gcc hello.c -o hello.exe.
+I ran the program using .\hello.exe.
+The program successfully displayed Hello world!.
+I faced an issue where GCC was not initially recognized, but I fixed the GCC path.
